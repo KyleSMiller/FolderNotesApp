@@ -1,0 +1,4 @@
+include ':WatchStarter'
+include ':API'
+include ':PhoneNotes'
+rootProject.name = "Miller_Kyle_Notes_App"

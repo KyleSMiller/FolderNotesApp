@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650679650050",
+    "project_id": "millerkylenotesassn3",
+    "storage_bucket": "millerkylenotesassn3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650679650050:android:4f3d37617a17c4c138e41b",
+        "android_client_info": {
+          "package_name": "com.millerkylenotesassn3.phoneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650679650050-hosinipf2cua0438iq5rpmnkv4dukfca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHkWzmU-pHx5q9TvIAoHPgmxOqJa3VJ20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650679650050-hosinipf2cua0438iq5rpmnkv4dukfca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
